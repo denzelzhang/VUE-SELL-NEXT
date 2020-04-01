@@ -1,0 +1,44 @@
+{
+  "seller": {
+    "name": "葆婴USANA",
+    "description": "领先全球的科学健康营养研发成果来帮助人们守护健康",
+    "deliveryTime": 38,
+    "score": 5,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "volume": 90,
+    "bulletin": "我们的使命是开发和提供有科学依据的最高质量保健产品，以直销的方式在全球销售，为我们的独立特许专营商、股东和员工创造一个有丰厚报酬的商机。",
+    "supports": [
+      {
+        "type": 2,
+        "description": "高品质私人定制营养补充品"
+      },
+      {
+        "type": 2,
+        "description": "全球开业20多个国家，并进入多国医生非处方药物手册"
+      },
+      {
+        "type": 2,
+        "description": "为全球5000位专业运动员提供运动员保障产品"
+      },
+      {
+        "type": 4,
+        "description": "全球原材料统一采购，GMP药物级别生产线，符合美国USP和英国BP药典效能，均一和溶解度要求"
+      },
+      {
+        "type": 4,
+        "description": "为全中国800万医生进行营养与疾病进行再教育"
+      }
+    ],
+    "avatar": "http://tool.aojiufu.com/static/images/usana_logo.png",
+    "infos": [
+      "中国：邮箱 CustomerService@baoying.com.cn 热线 ：400 628 5600 工作时间：周一至周五：9:00AM - 06:00PM",
+      "澳洲：邮箱 CustomerServiceANZ@usana.com 热线：1800 670 126  工作时间：周一，二，三，五：8:30AM - 5:00PM，周4：9:00AM - 5:00PM 周6：9:30AM - 3:00PM",
+      "香港：邮箱 CustomerServiceHK@USANA.com 热线：(852) 2162 1888 工作时间：周一至周五：香港时间 12:00PM– 09:00PM  周六：11:00AM - 4:00PM"
+    ]
+  }
+}
