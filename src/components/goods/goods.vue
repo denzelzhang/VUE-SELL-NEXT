@@ -82,7 +82,6 @@
   import { getGoods } from 'api'
   import CartControl from 'components/cart-control/cart-control'
   import ShopCart from 'components/shop-cart/shop-cart'
-  import Food from 'components/food/food'
   import Bubble from 'components/bubble/bubble'
 
   export default {
@@ -196,8 +195,7 @@
     components: {
       Bubble,
       CartControl,
-      ShopCart,
-      Food
+      ShopCart
     }
   }
 </script>

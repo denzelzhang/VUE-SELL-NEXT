@@ -18,8 +18,6 @@
 </template>
 
 <script type="text/ecmascript-6">
-  import SupportIco from 'components/support-ico/support-ico'
-
   export default {
     name: 'v-header',
     props: {
@@ -39,9 +37,6 @@
         })
         this.headerDetailComp.show()
       }
-    },
-    components: {
-      SupportIco
     }
   }
 </script>

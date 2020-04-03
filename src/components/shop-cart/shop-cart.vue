@@ -114,8 +114,9 @@
         if (this.totalCount === 0) {
           return `请选择产品`
         } else if (this.totalCount > 0) {
-          return '去结算'
+          return '计算'
         }
+        return `请选择产品`
       },
       payClass() {
         if (!this.totalCount > 0) {

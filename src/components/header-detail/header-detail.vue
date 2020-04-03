@@ -44,7 +44,6 @@
 
 <script>
   import popupMixin from 'common/mixins/popup'
-  import Star from 'components/star/star'
   import SupportIco from 'components/support-ico/support-ico'
 
   export default {
@@ -59,8 +58,7 @@
       }
     },
     components: {
-      SupportIco,
-      Star
+      SupportIco
     }
   }
 </script>
